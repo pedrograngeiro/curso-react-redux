@@ -6,5 +6,5 @@ export default function Fragmento(props) {
       <h2>Framento</h2>
       <p>Cuidado com esse erro!</p>
     </>
-  )
+  );
 }
