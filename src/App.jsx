@@ -13,7 +13,7 @@ export default function App() {
       <ComParametro titulo="Situação do Aluno" aluno="Pedro Silva" nota={9.3} />
       <Primeiro />
 
-      <Aleatorio num1={0} num2={1000} />
+      <Aleatorio min={1} max={60} />
     </div>
   );
 }
