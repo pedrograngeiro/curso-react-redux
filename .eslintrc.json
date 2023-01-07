@@ -19,6 +19,9 @@
     ],
     "rules": {
         "react/prop-types": 0,
-        "react/destructuring-assignment": ["off"]
+        "react/destructuring-assignment": ["off"],
+        "import/no-anonymous-default-export": ["error", {
+            "allowArrowFunction": true
+          }]
     }
 }
