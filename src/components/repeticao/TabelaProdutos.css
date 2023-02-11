@@ -1,0 +1,14 @@
+.TabelaProdutos table {
+  width: 100%;
+}
+.TabelaProdutos th {
+  background-color: #008a8a;
+}
+.TabelaProdutos .Par {
+  background-color: hsl(0, 0%, 75%);
+}
+.TabelaProdutos .Impar {
+  background-color: hsl(0, 0%, 44%);
+}
+
+

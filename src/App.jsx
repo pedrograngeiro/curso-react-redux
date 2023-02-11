@@ -15,7 +15,7 @@ import Aleatorio from "./components/basicos/Aleatorio";
 export default function App() {
   return (
     <div className="App">
-      <h1>Fundamentos react (Arrow)</h1>
+      <h1>Fundamentos React</h1>
 
       <div className="Cards">
         <Card titulo="#07 - Repetição exercicio" color="#F4c823">
