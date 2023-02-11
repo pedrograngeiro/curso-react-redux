@@ -5,7 +5,9 @@ export default function TabelaProdutos() {
 
   const ProdutosLista = produtos.map((produto) => (
     <li key={produto.id}>
-      {produto.id} {produto.nome} {produto.preco}
+      Id: {produto.id}
+       Nome: {produto.nome}
+       Preço: {produto.preco}
     </li>
   ))
   return (
