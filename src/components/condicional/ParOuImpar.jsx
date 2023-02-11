@@ -9,7 +9,6 @@ export default function ParOuImpar(props) {
        <span>Ímpar</span>
       }
       
-      
     </div>
   )
 };
